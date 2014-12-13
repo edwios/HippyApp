@@ -1,0 +1,34 @@
+{
+    "appKeys": {
+        "KEY_CLCOLOR": 4,
+        "KEY_CONDITIONS": 1,
+        "KEY_NOUPDATE": 5,
+        "KEY_ROOM": 2,
+        "KEY_SELECTION": 3,
+        "KEY_TEMPERATURE": 0,
+        "KEY_UPDATETYPE": 6
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "edwintam@iostation.com",
+    "longName": "HippyFace",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/HippyFace.png",
+                "menuIcon": true,
+                "name": "WATCH_FACE",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "HippyFace",
+    "uuid": "01429dfa-fadc-4df8-8da5-e4e086212e21",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
